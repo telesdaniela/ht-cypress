@@ -3,7 +3,7 @@
 Projeto de estudo com testes E2E (ponta a ponta) na tela de cadastro da loja do [Hopper Trace](https://hoppertrace.vercel.app/loja/register), um site feito para prática de QA.
 
 ## 📋 Planejamento
-Os cenários foram planejados e acompanhados no **Jira** antes da automação, com um ticket para cada caso de teste. Os commits deste repositório estão ligados aos tickets pelo código (por exemplo, `HC-4`).
+Os cenários foram planejados e acompanhados no **Jira** antes da automação, com um ticket para cada caso de teste. Os commits deste repositório estão ligados aos tickets pelo código (por exemplo, `HC-4`). As capturas de tela do planejamento estão na pasta `docs`.
 
 ## ✅ Cenários automatizados
 - Cadastro com sucesso
@@ -34,8 +34,6 @@ Os cenários foram planejados e acompanhados no **Jira** antes da automação, c
 ## ⚠️ Aviso
 Todos os dados usados nos testes (nomes, e-mails e senhas) são **fictícios** e foram criados apenas para fins de estudo. O site testado é um ambiente de prática.
 
-## 📋 Planejamento
-Os cenários foram planejados e acompanhados no **Jira** (workspace privado) antes da automação, com um ticket para cada caso de teste. Os commits estão ligados aos tickets pelo código (por exemplo, `HC-4`). As capturas de tela do planejamento estão na pasta `docs`.
 
 ## 📬 Contato
 - 👤 Daniela Rodrigues Teles

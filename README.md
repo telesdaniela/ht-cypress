@@ -5,6 +5,20 @@ Projeto de estudo com testes E2E (ponta a ponta) na tela de cadastro da loja do 
 ## 📋 Planejamento
 Os cenários foram planejados e acompanhados no **Jira** antes da automação, com um ticket para cada caso de teste. Os commits deste repositório estão ligados aos tickets pelo código (por exemplo, `HC-4`). As capturas de tela do planejamento estão na pasta `docs`.
 
+## 🖼️ Evidências
+
+**Tickets no Jira (workspace privado)**
+
+![Tickets no Jira](docs/ticket-cypress1.png)
+
+**Tickets no Jira (passo a passo)**
+
+![Tickets no Jira](docs/ticket-cypress2.png)
+
+**Testes executados no Cypress**
+
+![Testes passando no Cypress](docs/tickets-cypress-4.png)
+
 ## ✅ Cenários automatizados
 - Cadastro com sucesso
 - Cadastro com campo de e-mail vazio

@@ -13,7 +13,7 @@ Os cenários foram planejados e acompanhados no **Jira** antes da automação, c
 
 **Tickets no Jira (passo a passo)**
 
-![Tickets no Jira](docs/ticket-cypress2.png)
+![Tickets no Jira](docs/ticket-cypress-2.png)
 
 **Testes executados no Cypress**
 
